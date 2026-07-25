@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
+data/processed/
+reports/generated_reports/
+.vscode/
+.DS_Store
+Thumbs.db
